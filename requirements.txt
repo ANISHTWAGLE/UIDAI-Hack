@@ -8,3 +8,6 @@ scikit-learn
 ipykernel
 nbformat
 nbconvert
+streamlit
+streamlit-folium
+folium
