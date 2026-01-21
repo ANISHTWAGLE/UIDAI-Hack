@@ -1,4 +1,5 @@
 Dataset:- https://drive.google.com/file/d/1aoPOthnz2MjjGWDWdrwyVkT8TVtPg0si/view?usp=sharing
+Dashboard Visualizations:- https://drive.google.com/drive/folders/1NReTLnt5K_LQKdzjXXnsoz3dHwyQRzvc?usp=drive_link
 # Aadhaar Infrastructure Decision Dashboard
 
 A comprehensive data-driven decision support system for analyzing Aadhaar enrollment and update infrastructure stress across India. This project transforms raw Aadhaar transaction data into actionable insights for government infrastructure planning and resource allocation.
